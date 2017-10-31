@@ -1,2 +1,2 @@
 # MySQLconJava
-Conexión de base de datos (MySQL) con JAVA mediante NetBeans
+Conexión de base de datos MySQL utilizando JDBC en NetBeans
